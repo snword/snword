@@ -53,6 +53,11 @@ p {
     transform: translate(-50%);
 }
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
 .section-heading h2 {
     margin-top: 100px;
     position: relative;
@@ -69,7 +74,7 @@ p {
 /* Buttons */
 
 .main-button a {
-    background-color: #f5a425;
+    background-color: #CC0003;
     color: #fff;
     font-size: 13px;
     text-transform: uppercase;
@@ -187,7 +192,7 @@ a.menu-link { display: none; }
 }
 .main-header .logo a em {
     font-style: normal;
-    color: #f5a425;
+    color: #DB0003;
 }
 
 .main-menu {

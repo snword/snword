@@ -6,7 +6,6 @@ https://templatemo.com/tm-557-grad-school
 
 */
 
-
 @import url(fontawesome.css);
 @import url("<link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet">");
 body {
@@ -316,7 +315,7 @@ a.menu-link { display: none; }
 
 .video-overlay {
     position: absolute;
-    background-color: rgba(22,34,57,0.85);
+    background-color: rgba(10,21,53,0.45);
     top: 0;
     left: 0;
     bottom: 7px;
@@ -1454,7 +1453,7 @@ section.contact {
     background-image: url(../images/contact-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: #172238;
+    background-color: #810002;
     padding-bottom: 120px;
 }
 
@@ -1518,7 +1517,7 @@ section.contact form textarea::placeholder { color: #fff; }
 section.contact form textarea::placeholder { color: #fff; }
 
 section.contact form button {
-    background-color: #f5a425;
+    background-color: #810002;
     color: #fff;
     font-size: 13px;
     text-transform: uppercase;
@@ -1534,7 +1533,7 @@ section.contact form button {
 /* Footer */
 
 footer {
-    background-color: #152036;
+    background-color: #363636;
     text-align: center;
 }
 
@@ -1550,7 +1549,7 @@ footer p {
 
 footer p a,
 footer p a:hover {
-    color: #f5a425;
+    color: #BD0205;
 }
 
 @media screen and (max-width: 992px) {
